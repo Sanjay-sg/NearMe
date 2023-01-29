@@ -200,6 +200,7 @@ However, Career growth is rated the lowest at 3.3 and can be improved.
 ![OUTPUT](./oup5.png)
 
 ## HTML Validator
-![HTML Validator](./valid9.png)
+![HTML Validator](./valid.png) 
+
 ## Result:
 The program for implementing image map is executed successfully.
